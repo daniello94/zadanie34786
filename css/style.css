@@ -1,0 +1,13 @@
+p {
+background:red;
+height: 100px;
+width: 100px;
+
+}
+.dom{
+    background: blue;
+}
+.pies {
+opacity: 0.5;
+
+}
